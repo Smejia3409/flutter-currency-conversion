@@ -1,6 +1,6 @@
 # money_conversion
 
-A new Flutter project.
+Simple currency conversion app 
 
 ## Getting Started
 
